@@ -1,2 +1,2 @@
 # alien_invasion_game
-python game
+first simple python game
